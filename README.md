@@ -1,4 +1,4 @@
-# Hands-On-LLM-App-Development
+# Hands-On-LLMs-Application-Development
 A Hands-on series on developing LLM applications
 
 ## Hands on LangChain ##
