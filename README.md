@@ -55,7 +55,9 @@ Practical LangChain tutorials for LLM applications development
 
 
           
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()
+
+
 
 ---------------------------------------------------------
 ## Hands-On RAG Applications ##
