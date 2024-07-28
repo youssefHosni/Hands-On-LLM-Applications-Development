@@ -1,5 +1,5 @@
 # Hands-On-LLMs-Application-Development
-A Hands-on series on developing LLM applications
+A Hands-on series on developing LLM applications 
 
 ## Hands on LangChain ##
 Practical LangChain tutorials for LLM applications development 
@@ -30,11 +30,11 @@ Practical LangChain tutorials for LLM applications development
 * Hands-On Introduction to Open AI Function Calling | [Article](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [Code]()
 
 
+---------------------------------------------------------
 
 ## Prompt Engineering for LLMs ##
 
-## Prompt Engineering for VLMs ##
-
+---------------------------------------------------------
 ## Building Application Using HuggingFace Open-Source Models ##
 
 |Article |Google Colab Notebook|Kaggle Notebook|
@@ -45,7 +45,9 @@ Practical LangChain tutorials for LLM applications development
 |[Building & Deploying a Speech Recognition System Using the Whisper Model & Gradio]() | | |
 
 
-
+---------------------------------------------------------
 ## Hands-On LLM Fine-Tuning ##
 
+
+---------------------------------------------------------
 ## Hands-On RAG Applications ##
