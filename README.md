@@ -52,9 +52,9 @@ Practical LangChain tutorials for LLM applications development
 
 ---------------------------------------------------------
 ## Hands-On LLM Fine-Tuning ##
-|Article |Google Colab Notebook|Kaggle Notebook| Youtube Video |
+|Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
-|[]()||----------|----------|
+|Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
 
           
