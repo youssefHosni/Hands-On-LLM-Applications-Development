@@ -53,8 +53,9 @@ Practical LangChain tutorials for LLM applications development
 |-----|--------|----------|----------|
 |[]()||----------|----------|
 
-[![View on kaggle](https://img.shields.io/stackexchange/kaggle/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
 
+          
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---------------------------------------------------------
 ## Hands-On RAG Applications ##
