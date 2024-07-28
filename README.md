@@ -53,7 +53,7 @@ Practical LangChain tutorials for LLM applications development
 |-----|--------|----------|----------|
 |[]()||----------|----------|
 
-[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
+[![View on kaggle](https://img.shields.io/stackexchange/kaggle/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
 
 
 ---------------------------------------------------------
