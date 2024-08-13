@@ -6,8 +6,9 @@ A Hands-on series on developing LLM applications
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/youssef19)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCeEcSgRzYFuVt-2Yk1ULdhQ)
 
+# 1. Hands-On LangChain for LLM Applications #
 
-## LangChain Basics ##
+## 1.1. LangChain Basics ##
 
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
@@ -18,10 +19,9 @@ A Hands-on series on developing LLM applications
 |Hands-On LangChain for LLMs App: Evaluating LLM Applications |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/evaluating-llm-applications-using-langchain-d8641f6ce5f3?sk=02ed92e3f08becedd2cd367f55feeb26) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/evaluating-llm-applications-using-langchain)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Building LLM Agents Using LangChain & OpenAI API |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/building-llm-agents-using-langchain-openai-api-cf3f8a1e5d76?sk=d39a2c188d092e1dfcfeaddf0f60aded) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/building-llm-agents-using-langchain-openai-api)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
+--------------------------------------------------------
 
-  --------------------------------------------------------
-
-## Retrieval Augmented Generation (RAG) with LangChain ##
+## 1.2. Retrieval Augmented Generation (RAG) with LangChain ##
 
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
@@ -34,7 +34,7 @@ A Hands-on series on developing LLM applications
 |Hands-On LangChain for LLMs App: Chat with Your Files |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/hands-on-langchain-for-llms-app-chat-with-your-files-d1636e33a97d?sk=1b0b1eeb8d6a35db563ecac4e9eb8628) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
 ---------------------------------------------------------
-## Building LLM Agents with LangGraph ## 
+## 1.3. Building LLM Agents with LangGraph ## 
 
  |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
@@ -45,7 +45,7 @@ A Hands-on series on developing LLM applications
 |Human in the Loop |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 |Building Essay Writer Agent |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
 
-## Advanced LangChain with OpenAI ##
+## 1.4. Advanced LangChain with OpenAI ##
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
 |Hands-On Introduction to Open AI Function Calling |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://open.substack.com/pub/youssefh/p/hands-on-introduction-to-open-ai?r=1sqbmi&utm_campaign=post&utm_medium=web) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
@@ -58,11 +58,11 @@ A Hands-on series on developing LLM applications
 
 ---------------------------------------------------------
 
-## Prompt Engineering for LLMs ##
+# 2. Prompt Engineering for LLMs #
 
 
 ---------------------------------------------------------
-## Building Application Using HuggingFace Open-Source Models ##
+# 3. Building Application Using HuggingFace Open-Source Models #
 
 |Title |Blog |Kaggle Notebook| Youtube Video|
 |--------|-------|----------|----------|
@@ -75,7 +75,7 @@ A Hands-on series on developing LLM applications
 
  
 ---------------------------------------------------------
-## Hands-On LLM Fine-Tuning ##
+# 4. Hands-On LLM Fine-Tuning #
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
 |Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
