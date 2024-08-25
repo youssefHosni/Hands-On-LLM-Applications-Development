@@ -113,7 +113,7 @@ A Hands-on series on developing LLM applications
 
 
 ---------------------------------------------------------
-# 4. Hands-On LLM Fine-Tuning (Comming Soon!) #
+# 4. Hands-On LLM Fine-Tuning (In Progress) #
 
 ### 4.1. LLM Full Fine Tunning 
 
@@ -124,12 +124,16 @@ A Hands-on series on developing LLM applications
 ### 4.2. LLM Parameter Efficient Fine Tunning ###
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
-|Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Finetune Falcon-7b with LoRA: A Step-by-Step Guide |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/gitconnected/finetune-falcon-7b-with-lora-a-step-by-step-guide-cd11b06f5ef5?sk=443a96715dea7b1810911124c4ea04c2) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/code/youssef19/finetune-falcon-7b-with-lora-a-step-by-step-guide)| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
 
 ### 4.3. LLM Instruction Fine Tuning ###
 |Topic |Blog|Kaggle Notebook| Youtube Video |
 |-----|--------|----------|----------|
-|Topic |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]() | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+|Instruction Fine-Tuning Large Language Models for Summarization: Step-by-Step Guide |[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/towards-artificial-intelligence/instruction-fine-tuning-large-language-models-for-summarization-step-by-step-guide-bb1e13a2f9cb?sk=edfd12cd43006dcbd2db906c6c44c5b1) | [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() |
+
+
+
 
 ---------------------------------------------------------
 # 5. Hands-On RAG Applications (Comming Soon!) #
